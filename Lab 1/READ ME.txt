@@ -1,0 +1,198 @@
+This README contains information about multiple projects developed by [Daanish Ahmad Mufti].
+
+---
+
+## Dynamic Kitchen Management System
+
+### Description
+
+This project is a Dynamic Kitchen Management System implemented in C++. It allows users to manage orders, calculate bills, mark orders as completed, and view pending orders.
+
+### Features
+
+- Add new orders with various food items and quantities.
+- Print bills for specific orders.
+- Mark orders as completed.
+- Check for pending orders.
+- Display order details by order number.
+
+### Usage
+
+1. Compile the program using a C++ compiler such as g++:
+
+2. Run the compiled executable:
+
+3. Follow the on-screen prompts to interact with the system:
+- Enter 1 to add a new order.
+- Enter 2 to print a bill for a specific order.
+- Enter 3 to mark an order as completed.
+- Enter 4 to check for pending orders.
+- Enter 5 to display order details by order number.
+- Enter 6 to quit the program.
+
+### Dependencies
+
+- None
+
+### License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Employee Management System
+
+### Description
+
+This project is an Employee Management System implemented in C++. It allows users to add new employees, display employee information, search for employees by ID, and calculate total salaries.
+
+### Features
+
+- Add new employee records with name, ID, department, and salary.
+- Display employee information based on ID.
+- Search for employees by ID.
+- Calculate total salaries of all employees.
+
+### Usage
+
+1. Compile the program using a C++ compiler such as g++:
+
+2. Run the compiled executable:
+
+3. Follow the on-screen prompts to interact with the system:
+- Enter 1 to add a new employee record.
+- Enter 2 to display employee information based on ID.
+- Enter 3 to search for an employee by ID.
+- Enter 4 to calculate the total salaries of all employees.
+- Enter 5 to quit the program.
+
+### Dependencies
+
+- None
+
+### License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Student Information System
+
+### Description
+
+This project is a Student Information System implemented in C++. It allows users to add student records, display student information, search for students by roll number, and display statistics.
+
+### Features
+
+- Add new student records with roll number, name, age, and address.
+- Display student information.
+- Search for students by roll number.
+- Display students with specific age or address.
+- Display statistics such as the total number of students.
+
+### Usage
+
+1. Compile the program using a C++ compiler such as g++:
+
+2. Run the compiled executable:
+
+3. Follow the on-screen prompts to interact with the system:
+- Enter student information as prompted.
+- Enter 1 to display all student records.
+- Enter 2 to search for a student by roll number.
+- Enter 3 to display students with a specific age.
+- Enter 4 to display students with a specific address.
+- Enter 5 to display statistics such as the total number of students.
+- Enter 6 to quit the program.
+
+### Dependencies
+
+- None
+
+### License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Salary Calculation System
+
+### Description
+
+This project is a Salary Calculation System implemented in C++. It allows users to store employee details, calculate salaries based on working hours, and display employee information.
+
+### Features
+
+- Store employee details including name, salary, and working hours.
+- Calculate salaries based on working hours:
+- Add $50 for hours less than 8.
+- Add $100 for hours between 8 and 12.
+- Add $150 for hours more than 12.
+- Display employee information including name and final salary.
+
+### Usage
+
+1. Compile the program using a C++ compiler such as g++:
+
+2. Run the compiled executable:
+
+3. Follow the on-screen prompts to interact with the system:
+- Enter employee details as prompted.
+- Enter 1 to calculate salaries and display employee information.
+- Enter 2 to quit the program.
+
+### Dependencies
+
+- None
+
+### License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Library Management System
+
+### Description
+
+This project is a Library Management System implemented in C++. It allows users to manage books, including adding new books, displaying book information, searching for books, and issuing books.
+
+### Features
+
+- Add new books with accession number, author, and title.
+- Display book information based on accession number.
+- Search for books by author or title.
+- Display the total number of books in the library.
+- Issue books to users.
+
+### Usage
+
+1. Compile the program using a C++ compiler such as g++:
+
+2. Run the compiled executable:
+
+3. Follow the on-screen prompts to interact with the system:
+- Enter 1 to display book information based on accession number.
+- Enter 2 to add a new book to the library.
+- Enter 3 to search for books by author.
+- Enter 4 to search for books by title.
+- Enter 5 to display the total number of books in the library.
+- Enter 6 to issue a book to a user.
+- Enter 7 to quit the program.
+
+### Dependencies
+
+- None
+
+### License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the [LICENSE](LICENSE) file for details.
+
+---
+
+
+
+
+
+
+
