@@ -1,0 +1,41 @@
+READ ME
+
+EXTERNAL Libraries:
+
+. conio.h  to use getch()  in line number 82    input = getch();     used to get user input without pressing enter
+
+. cstdlib  to use system("CLS")  in line number 135   system("CLS");     used to clear screen
+
+Code eplanation:
+
+. Utilising structure called car with two varaibles position, points as integers
+
+. Utilising structure called track containning call to two instances of car structure and definning a constant variabe called lenght initialised to zero
+
+. Display Function (void data type) used to display track along with the position of the cars
+  -this function uses for loop to display track and car position
+
+. Menu Function (void data type) used to display user the controls
+
+. Main Fucntion
+
+-structure called daanish is created and its variables are initialised to zero
+
+-a while loop used to prompt user a option to exit
+
+-series of if and else statements used to run code based of the user's input 
+
+. for the car going out of bounds or above 30 spaces / below 0 spaces ,the code is initialised to highest or lowest psoition in track by incrementing or decrementing positon. e.g
+
+if(input == 'd') // d key pressed 
+		{
+			if(daanish.car1.position >= 30) // if car goes out of bounds meaning above 30 horizontal spaces , rest to 0
+			{
+				daanish.car1.position = 0;
+				++daanish.car1.points; 
+			}
+			else
+			{
+				++daanish.car1.position; // increment the postion
+			}
+		}
