@@ -1,0 +1,3 @@
+C:\OOPs\Cluster Analysis Final Sem project\Cluster Analysis Tool\Cluster .d6cc0759\x64\Debug\Cluster Analysis Tool.vcxproj.AssemblyReference.cache
+C:\OOPs\Cluster Analysis Final Sem project\Cluster Analysis Tool\Cluster .d6cc0759\x64\Debug\Cluster_Analysis_Tool.Form1.resources
+C:\OOPs\Cluster Analysis Final Sem project\Cluster Analysis Tool\Cluster .d6cc0759\x64\Debug\Cluster Analysis Tool.vcxproj.GenerateResource.cache
